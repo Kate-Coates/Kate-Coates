@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kate</h1>
-<h3 align="center">A passionate full stack developer with a background in architecture</h3>
+<h1 align="left">Hi 👋, I'm Kate</h1>
+<h3 align="left">A passionate full stack developer with a background in architecture</h3>
 
 - 📫 How to reach me **kateyjcoates@gmail.com**
 
