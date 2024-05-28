@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋, I'm Kate</h1>
-<h3 align="left">A passionate full stack developer with a background in architecture</h3>
+
+**`A passionate full stack developer with a background in architecture`**
+
+My background provides a unique perspective and set of skills that I am excited to bring to software development. Recently completing the Le Wagon bootcamp has been the perfect opportunity for me to learn and improve my coding skills and embark on a new career path that blends my love for design with the dynamic world of technology.
 
 - 📫 How to reach me **kateyjcoates@gmail.com**
 
